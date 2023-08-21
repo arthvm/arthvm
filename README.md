@@ -9,13 +9,14 @@
   <img align ="center" alt="Arth-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Arth-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
-  
-##
-  
- <div>
+    
+<div>
  	<a href="https://www.twitch.tv/aiden_pierc3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthur.vieiramariano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-![snake animation](https://github.com/arthvm/arthvm/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/arthvm/arthvm/blob/output/github-contribution-grid-snake.svg)
    
-   </div>
+</div>
+
+##
+  
