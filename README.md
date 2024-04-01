@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur:)</h1>
 <h3 align="center">🤖Software Analysis and Development Student and 👾Game Dev Hobbyist</h3>
 
-- 🔭 I’m currently working on [a to do list(Help😶)](https://github.com/arthvm/todo-list)
+- 🔭 I’m currently working on a car health app(More details later)
 
 - 🌱 I’m currently learning **JavaScript, Java, Python and DB**
 
