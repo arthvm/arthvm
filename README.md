@@ -9,8 +9,8 @@ Besides web-development, I challenge myself with Game Development, mostly in Uni
   <a href="https://www.linkedin.com/in/arthvm/" aria-label="Arthur Mariano LinkedIn Profile">
     <img alt="Linkedin Profile" title="Check my LinkedIn profile" src="https://img.shields.io/badge/Arthur_Mariano-33389e?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:arthur.vieiramariano@gmail.com" aria-label="Contact Arthur Mariano via Email">
-    <img alt="Email me" title="Contact me on email" src="https://img.shields.io/badge/arthur.vieiramariano@gmail.com-33389e?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:arthvm@proton.me" aria-label="Contact Arthur Mariano via Email">
+    <img alt="Email me" title="Contact me on email" src="https://img.shields.io/badge/arthvm@proton.me-33389e?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
